@@ -1,0 +1,7 @@
+c:\Users\amikom\source\repos\List\List2\obj\Debug\List2.csprojAssemblyReference.cache
+c:\Users\amikom\source\repos\List\List2\obj\Debug\List2.csproj.CoreCompileInputs.cache
+c:\Users\amikom\source\repos\List\List2\bin\Debug\List2.exe.config
+c:\Users\amikom\source\repos\List\List2\bin\Debug\List2.exe
+c:\Users\amikom\source\repos\List\List2\bin\Debug\List2.pdb
+c:\Users\amikom\source\repos\List\List2\obj\Debug\List2.exe
+c:\Users\amikom\source\repos\List\List2\obj\Debug\List2.pdb
